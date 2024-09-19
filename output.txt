@@ -74,8 +74,6 @@ I (766) wifi:mode : softAP (58:bf:25:8c:13:d5)
 I (916) wifi:Total power save buffer number: 16
 I (916) wifi:Init max length of beacon: 752/752
 I (916) wifi:Init max length of beacon: 752/752
-
 I (916) wifi softAP: wifi_init_softap finished. SSID:AIS 4G Hi-Speed Home WiFi_769475 password:50769475 channel:1
 I (916) esp_netif_lwip: DHCP server started on interface WIFI_AP_DEF with IP: 192.168.4.1
-
 I (936) main_task: Returned from app_main()
